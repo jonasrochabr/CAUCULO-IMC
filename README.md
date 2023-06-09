@@ -24,3 +24,8 @@ Avançando em JS esse projeto me deu a oportunidade de aprender sobre:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-rocha-978687a7/)
 
 
+
+## Screenshots
+
+![App Screenshot](https://github.com/jonasrochabr/CAUCULO-IMC/blob/master/Screenshot_proj.jpg?raw=true)
+
